@@ -1,0 +1,19 @@
+Método: suma de pesos EFI/EFE de factores únicos x bono del tipo.
+Bonos de la guía: DA=1.35; FA=1.20; DO=1.10; FO=1.00.
+Desempate por ID; orden no sustituye dependencias ni presupuesto.
+01. E-06 FA 0.480 Inventario y baja segura de activos tecnológicos
+02. E-10 DA 0.432 Detección adaptativa y evaluación de falsos positivos
+03. E-12 DA 0.378 Controles de datos y consentimiento para IA
+04. E-04 FA 0.360 Evolución de detección y respuesta a fraude
+05. E-08 DO 0.352 Ampliación de cobertura accesible y auditoría de flujos
+06. E-07 DO 0.330 Automatización y seguimiento de reclamos
+07. E-03 FO 0.300 Pilotos inclusivos y pruebas de accesibilidad
+08. E-11 DA 0.297 Accesibilidad y pruebas de atención en conectividad limitada
+09. E-05 FA 0.264 Canales ligeros y continuidad de atención asistida
+10. E-09 DO 0.264 Marco de riesgo y evaluación de agentes de IA
+11. E-01 FO 0.240 Capacidad y observabilidad de pagos
+12. E-02 FO 0.220 Analítica de recorridos de pagos e integración
+Distribución diseñada: {'DA': 3, 'DO': 3, 'FA': 3, 'FO': 3}.
+Primeras cuatro: {'DA': 2, 'FA': 2}.
+Tres estrategias por cuadrante es un requisito, no evidencia de predominio defensivo.
+La secuencia debe atender controles y continuidad antes de expandir servicios.

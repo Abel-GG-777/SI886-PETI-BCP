@@ -1,0 +1,27 @@
+EFI: pesos=1.000; total=2.560; referencia=2.500
+
+id                                                      factor  peso  calificacion  ponderado
+F1                         Escala y uso del ecosistema digital  0.12             4       0.48
+F2                         Analítica con beneficios reportados  0.10             3       0.30
+F3         Gobierno y programa de ciberseguridad y continuidad  0.12             3       0.36
+F4               Entrega tecnológica ágil con mejoras medibles  0.10             3       0.30
+D1 Atención de reclamos aún no totalmente resuelta en 48 horas  0.18             2       0.36
+D2                 Persistencia de reclamos por fraude digital  0.14             2       0.28
+D3               Accesibilidad digital en extensión progresiva  0.12             2       0.24
+D4   Marco específico de riesgo de IA generativa en desarrollo  0.12             2       0.24
+
+Valoración académica, no auditoría ni comparación estadística sectorial.
+
+EFE: pesos=1.000; total=3.000; referencia=2.500
+
+id                                                factor  peso  calificacion  ponderado
+O1 Impulso nacional a transformación e inclusión digital  0.08             3       0.24
+O2            Expansión de la demanda de pagos digitales  0.12             3       0.36
+O3                      Ampliación del acceso a internet  0.12             3       0.36
+A2                           Desigualdad de conectividad  0.10             3       0.30
+O4  Interoperabilidad y apertura del ecosistema de pagos  0.12             3       0.36
+A1           Amenazas digitales y exigencia de controles  0.18             3       0.54
+A4                  Gestión de residuos de equipos de TI  0.12             3       0.36
+A3          Protección de datos y atención de incidentes  0.16             3       0.48
+
+Valoración académica, no auditoría ni comparación estadística sectorial.
