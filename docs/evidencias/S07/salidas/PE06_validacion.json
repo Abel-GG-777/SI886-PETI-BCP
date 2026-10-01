@@ -1,0 +1,17 @@
+{
+  "organizacion": "BCP Perú",
+  "pestel_factores": 8,
+  "dimensiones": 6,
+  "efi_total": "2.56",
+  "efe_total": "3.00",
+  "estrategias": 12,
+  "por_tipo": {
+    "FO": 3,
+    "FA": 3,
+    "DO": 3,
+    "DA": 3
+  },
+  "trazabilidad_filas": 27,
+  "estado_calculos": "Validado",
+  "estado_evidencia": "Respuesta documentada en cada EFE; pesos/calificaciones son juicio académico; cuatro debilidades candidatas inferidas; no auditoría."
+}
